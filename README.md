@@ -36,7 +36,7 @@ of these simulations, including each team's frequency of reaching the playofffs.
 RUNNING THE PROGRAM:
 
 
-For now, the program is entirely python code, with Pandas and Numpy importations, 
+The main program, MSPC.py, is entirely python code, with Pandas and Numpy importations, 
 and is meant to be run in the terminal.
 
 The file fftest.csv must be downloaded in concert, as MSPC.py will read in the csv data.
