@@ -4,25 +4,7 @@
 
 DESCRIPTION:
 
-
-The folling sites are the inspiration for this project:
-
-
-###########
-
-https://www.fangraphs.com/standings/playoff-odds
-
-https://projects.fivethirtyeight.com/2019-mlb-predictions/
-
-http://mlb.mlb.com/mlb/standings/probability.jsp
-
-###########
-
-
-These site pages estimate the current probability of each Major League Baseball team 
-finishing in the league's top third, and reaching the league playoffs.
-
-I created the same concept for my fantasy football league.
+This program generates playoff probability measures for each team in my fantasy football league.
 
 The program creates elo scores for each team, giving future expected scores and standard deviation
 based on a recency-biased weighted average of previous scores.
